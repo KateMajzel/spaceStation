@@ -1,0 +1,5 @@
+Application showing information about the movement of the International Space Station (ISS).
+
+1. ISS speed calculation
+2. Returning a list of upcoming ISS runs for a specific location
+3. Returning the number of people in space within the ISS
